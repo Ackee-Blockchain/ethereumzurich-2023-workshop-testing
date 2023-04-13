@@ -1,0 +1,10 @@
+{
+  "name": "ethereum-zurich-workshop",
+  "version": "1.0.0",
+  "description": "Example project for EthereumZuri.ch workshop",
+  "author": "Ackee Blockchain",
+  "license": "ISC",
+  "dependencies": {
+    "@axelar-network/axelar-gmp-sdk-solidity": "^3.3.0"
+  }
+}

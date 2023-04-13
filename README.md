@@ -1,1 +1,2 @@
-# ethereum-zurich-2023-workshop-testing
+# Tooling for cross-chain testing
+EthereumZuri.ch 2023 
